@@ -3,3 +3,8 @@
 git-course
 
 hello world
+
+git clone https://github.com/EvgenyNo/example.git (копирование содержимого репозитария(url) на клиенскую машину)
+git add new.txt (добавляем ранее созданный файл к рабочему репозитарию)
+git commit -am "new version" (фиксируем изменения. необходим комментарий)
+git push origin main (отправка локальной версии на север)
